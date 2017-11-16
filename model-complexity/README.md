@@ -7,7 +7,7 @@
 Criteria | Comments
 -------- | --------
 Important for many stock assessment scientists?   |
-Standard papers that people cite for this topic?  | See list below   
+Standard papers that people cite for this topic?  | See list below ..  
 Another working group already working on this?    |
 How can this be structured into a journal paper?  |
 What kind of work is required, and how much work? |
